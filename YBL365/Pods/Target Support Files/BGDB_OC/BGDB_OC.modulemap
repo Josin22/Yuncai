@@ -1,0 +1,6 @@
+framework module BGDB_OC {
+  umbrella header "BGDB_OC-umbrella.h"
+
+  export *
+  module * { export * }
+}

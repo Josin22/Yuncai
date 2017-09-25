@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>北京</string>
+	<string>上海</string>
+	<string>天津</string>
+	<string>重庆</string>
+	<string>浙江</string>
+	<string>广东</string>
+	<string>江苏</string>
+	<string>山东</string>
+	<string>福建</string>
+	<string>安徽</string>
+	<string>四川</string>
+	<string>湖北</string>
+	<string>河北</string>
+	<string>云南</string>
+	<string>黑龙江</string>
+	<string>吉林</string>
+	<string>辽宁</string>
+	<string>海南</string>
+	<string>湖南</string>
+	<string>河南</string>
+	<string>贵州</string>
+	<string>江西</string>
+	<string>广西</string>
+	<string>陕西</string>
+	<string>山西</string>
+	<string>青海</string>
+	<string>宁夏</string>
+	<string>甘肃</string>
+	<string>西藏</string>
+	<string>内蒙古</string>
+	<string>新疆</string>
+	<string>台湾</string>
+	<string>香港</string>
+	<string>澳门</string>
+	<string>国外</string>
+</array>
+</plist>

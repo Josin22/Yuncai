@@ -1,0 +1,16 @@
+//
+//  YBLOrderDeliverViewController.h
+//  YC168
+//
+//  Created by 乔同新 on 2017/4/13.
+//  Copyright © 2017年 乔同新. All rights reserved.
+//
+
+#import "YBLMMainViewController.h"
+#import "YBLOrderDeliverViewModel.h"
+
+@interface YBLOrderDeliverViewController : YBLMMainViewController
+
+@property (nonatomic, strong) YBLOrderDeliverViewModel *viewModel;
+
+@end

@@ -1,0 +1,6 @@
+framework module Wonderful {
+  umbrella header "Wonderful-umbrella.h"
+
+  export *
+  module * { export * }
+}
