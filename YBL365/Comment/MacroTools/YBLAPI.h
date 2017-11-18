@@ -10,12 +10,20 @@
 #define YBLAPI_h
 
 /* 根 URL */
+/*
 static NSString * const BaseURL_Release3001         = @"http://www.kuaiyiyuncai.cn:3001/api/v1/";
 static NSString * const BaseURL_Release81           = @"https://www.kuaiyiyuncai.cn/api/v1/";
 static NSString * const BASE_URL                    = @"https://www.kuaiyiyuncai.cn/api/v1/";
 static NSString * const BaseURL_ReleaseAdmin        = @"https://www.kuaiyiyuncai.cn/api/admin/v1/";
 static NSString * const BaseURL_Login_Release       = @"https://www.kuaiyiyuncai.cn/";
 static NSString * const BASE_URL_Login              = @"https://www.kuaiyiyuncai.cn/";
+*/
+static NSString * const BaseURL_Release3001         = @"http://demo.nit.cn:3001/api/v1/";
+static NSString * const BaseURL_Release81           = @"https://demo.nit.cn/api/v1/";
+static NSString * const BASE_URL                    = @"https://demo.nit.cn/api/v1/";
+static NSString * const BaseURL_ReleaseAdmin        = @"https://demo.nit.cn/api/admin/v1/";
+static NSString * const BaseURL_Login_Release       = @"https://demo.nit.cn/";
+static NSString * const BASE_URL_Login              = @"https://demo.nit.cn/";
 
 ///版本监测
 #define url_versions                                [BASE_URL stringByAppendingString:@"versions"]

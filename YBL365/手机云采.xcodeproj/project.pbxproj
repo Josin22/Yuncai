@@ -8879,7 +8879,7 @@
 				GCC_PREFIX_HEADER = "$(SRCROOT)/Comment/MacroTools/YBLBase.pch";
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Libs/Pay\"";
 				INFOPLIST_FILE = YBL365/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -8894,10 +8894,10 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.danshui.yuncai;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "aab032ff-4612-4f35-96e3-e161f4ff03d0";
+				PROVISIONING_PROFILE = "2222f9c6-2919-43f0-ab01-d36b8682b6ad";
 				PROVISIONING_PROFILE_SPECIFIER = Yuncai_Development;
 				SWIFT_VERSION = 2.3;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
 				USE_HEADERMAP = NO;
 			};
@@ -8927,7 +8927,7 @@
 				GCC_PREFIX_HEADER = "$(SRCROOT)/Comment/MacroTools/YBLBase.pch";
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Libs/Pay\"";
 				INFOPLIST_FILE = YBL365/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -8945,7 +8945,7 @@
 				PROVISIONING_PROFILE = "cfe29cee-3356-4ea4-9c7d-0de73c7786bb";
 				PROVISIONING_PROFILE_SPECIFIER = Yuncai_Distribution;
 				SWIFT_VERSION = 2.3;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
 				USE_HEADERMAP = NO;
 			};
