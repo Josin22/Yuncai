@@ -34,6 +34,7 @@
 #import "YBLDBManage.h"
 #import "YBLFooterPrintsPopView.h"
 #import "YBLShowCouponsView.h"
+#import "YBLShopCarViewModel.h"
 
 static NSInteger scrollViewTagTop = 8863;
 static NSInteger scrollViewTagBase = 863;

@@ -11,12 +11,12 @@
 
 /* 根 URL */
 /*
-static NSString * const BaseURL_Release3001         = @"http://www.kuaiyiyuncai.cn:3001/api/v1/";
-static NSString * const BaseURL_Release81           = @"https://www.kuaiyiyuncai.cn/api/v1/";
-static NSString * const BASE_URL                    = @"https://www.kuaiyiyuncai.cn/api/v1/";
-static NSString * const BaseURL_ReleaseAdmin        = @"https://www.kuaiyiyuncai.cn/api/admin/v1/";
-static NSString * const BaseURL_Login_Release       = @"https://www.kuaiyiyuncai.cn/";
-static NSString * const BASE_URL_Login              = @"https://www.kuaiyiyuncai.cn/";
+static NSString * const BaseURL_Release3001         = @"https://water.iamyuhang.com:3001/api/v1/";
+static NSString * const BaseURL_Release81           = @"https://water.iamyuhang.com/api/v1/";
+static NSString * const BASE_URL                    = @"https://water.iamyuhang.com/api/v1/";
+static NSString * const BaseURL_ReleaseAdmin        = @"https://water.iamyuhang.com/api/admin/v1/";
+static NSString * const BaseURL_Login_Release       = @"https://water.iamyuhang.com/";
+static NSString * const BASE_URL_Login              = @"https://water.iamyuhang.com/";
 */
 static NSString * const BaseURL_Release3001         = @"http://demo.nit.cn:3001/api/v1/";
 static NSString * const BaseURL_Release81           = @"https://demo.nit.cn/api/v1/";

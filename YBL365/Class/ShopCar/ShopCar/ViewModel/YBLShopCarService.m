@@ -17,6 +17,7 @@
 #import "YBLLoginViewController.h"
 #import "YBLNavigationViewController.h"
 #import "YBLFooterSignView.h"
+#import "YBLShopCarViewModel.h"
 
 @interface YBLShopCarService ()<UITableViewDelegate,UITableViewDataSource,DZNEmptyDataSetSource,DZNEmptyDataSetDelegate>
 {
