@@ -18,12 +18,12 @@ static NSString * const BaseURL_ReleaseAdmin        = @"https://water.iamyuhang.
 static NSString * const BaseURL_Login_Release       = @"https://water.iamyuhang.com/";
 static NSString * const BASE_URL_Login              = @"https://water.iamyuhang.com/";
 */
-static NSString * const BaseURL_Release3001         = @"http://demo.nit.cn:3001/api/v1/";
-static NSString * const BaseURL_Release81           = @"https://demo.nit.cn/api/v1/";
-static NSString * const BASE_URL                    = @"https://demo.nit.cn/api/v1/";
-static NSString * const BaseURL_ReleaseAdmin        = @"https://demo.nit.cn/api/admin/v1/";
-static NSString * const BaseURL_Login_Release       = @"https://demo.nit.cn/";
-static NSString * const BASE_URL_Login              = @"https://demo.nit.cn/";
+static NSString * const BaseURL_Release3001         = @"https://water.iamyuhang.com:3001/api/v1/";
+static NSString * const BaseURL_Release81           = @"https://water.iamyuhang.com/api/v1/";
+static NSString * const BASE_URL                    = @"https://water.iamyuhang.com/api/v1/";
+static NSString * const BaseURL_ReleaseAdmin        = @"https://water.iamyuhang.com/api/admin/v1/";
+static NSString * const BaseURL_Login_Release       = @"https://water.iamyuhang.com/";
+static NSString * const BASE_URL_Login              = @"https://water.iamyuhang.com/";
 
 ///版本监测
 #define url_versions                                [BASE_URL stringByAppendingString:@"versions"]
