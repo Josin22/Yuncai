@@ -11,19 +11,19 @@
 
 /* 根 URL */
 /*
-static NSString * const BaseURL_Release3001         = @"https://water.iamyuhang.com:3001/api/v1/";
-static NSString * const BaseURL_Release81           = @"https://water.iamyuhang.com/api/v1/";
-static NSString * const BASE_URL                    = @"https://water.iamyuhang.com/api/v1/";
-static NSString * const BaseURL_ReleaseAdmin        = @"https://water.iamyuhang.com/api/admin/v1/";
-static NSString * const BaseURL_Login_Release       = @"https://water.iamyuhang.com/";
-static NSString * const BASE_URL_Login              = @"https://water.iamyuhang.com/";
+static NSString * const BaseURL_Release3001         = @"https://water.memorysheep.com:3001/api/v1/";
+static NSString * const BaseURL_Release81           = @"https://water.memorysheep.com/api/v1/";
+static NSString * const BASE_URL                    = @"https://water.memorysheep.com/api/v1/";
+static NSString * const BaseURL_ReleaseAdmin        = @"https://water.memorysheep.com/api/admin/v1/";
+static NSString * const BaseURL_Login_Release       = @"https://water.memorysheep.com/";
+static NSString * const BASE_URL_Login              = @"https://water.memorysheep.com/";
 */
-static NSString * const BaseURL_Release3001         = @"https://water.iamyuhang.com:3001/api/v1/";
-static NSString * const BaseURL_Release81           = @"https://water.iamyuhang.com/api/v1/";
-static NSString * const BASE_URL                    = @"https://water.iamyuhang.com/api/v1/";
-static NSString * const BaseURL_ReleaseAdmin        = @"https://water.iamyuhang.com/api/admin/v1/";
-static NSString * const BaseURL_Login_Release       = @"https://water.iamyuhang.com/";
-static NSString * const BASE_URL_Login              = @"https://water.iamyuhang.com/";
+static NSString * const BaseURL_Release3001         = @"https://water.memorysheep.com:3001/api/v1/";
+static NSString * const BaseURL_Release81           = @"https://water.memorysheep.com/api/v1/";
+static NSString * const BASE_URL                    = @"https://water.memorysheep.com/api/v1/";
+static NSString * const BaseURL_ReleaseAdmin        = @"https://water.memorysheep.com/api/admin/v1/";
+static NSString * const BaseURL_Login_Release       = @"https://water.memorysheep.com/";
+static NSString * const BASE_URL_Login              = @"https://water.memorysheep.com/";
 
 ///版本监测
 #define url_versions                                [BASE_URL stringByAppendingString:@"versions"]
